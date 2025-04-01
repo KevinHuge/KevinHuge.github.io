@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kevinhuge.github.io/sitemap.xml

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KevinHuge&#39;s Blog</title>
+    <link>https://kevinhuge.github.io/</link>
+    <description>Recent content on KevinHuge&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>kevinhuge2005@gmail.com (KevinHuge)</managingEditor>
+    <webMaster>kevinhuge2005@gmail.com (KevinHuge)</webMaster>
+    <copyright>© 2025 KevinHuge</copyright>
+    <lastBuildDate>Wed, 02 Apr 2025 02:26:58 +0800</lastBuildDate><atom:link href="https://kevinhuge.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>https://kevinhuge.github.io/posts/test/</link>
+      <pubDate>Wed, 02 Apr 2025 02:26:58 +0800</pubDate>
+      <author>kevinhuge2005@gmail.com (KevinHuge)</author>
+      <guid>https://kevinhuge.github.io/posts/test/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

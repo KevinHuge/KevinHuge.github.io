@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on KevinHuge&#39;s Blog</title>
+    <link>https://kevinhuge.github.io/categories/</link>
+    <description>Recent content in Categories on KevinHuge&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>kevinhuge2005@gmail.com (KevinHuge)</managingEditor>
+    <webMaster>kevinhuge2005@gmail.com (KevinHuge)</webMaster>
+    <copyright>© 2025 KevinHuge</copyright>
+    <atom:link href="https://kevinhuge.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
