@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on KevinHuge&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on KevinHuge&#39;s Blog</description>
+    <title>Example on KevinHuge&#39;s Blog</title>
+    <link>http://localhost:1313/tags/example/</link>
+    <description>Recent content in Example on KevinHuge&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>kevinhuge2005@gmail.com (KevinHuge)</managingEditor>
     <webMaster>kevinhuge2005@gmail.com (KevinHuge)</webMaster>
     <copyright>© 2025 KevinHuge</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>new-test</title>
@@ -19,16 +19,6 @@
       <guid>http://localhost:1313/posts/1743777663238-new-test/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1743777663238-new-test/featured.png" />
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Wed, 02 Apr 2025 02:26:58 +0800</pubDate>
-      <author>kevinhuge2005@gmail.com (KevinHuge)</author>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description></description>
-      
     </item>
     
   </channel>
